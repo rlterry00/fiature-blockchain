@@ -2,7 +2,7 @@
   "name": "fiature-blockchain",
   "version": "1.0.0",
   "description": "Blockchain build for Fiature crypto currency",
-  "main": "server.js",
+  "main": "fiature.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
