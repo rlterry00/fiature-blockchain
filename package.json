@@ -1,0 +1,22 @@
+{
+  "name": "fiature-blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain build for Fiature crypto currency",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rlterry00: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@github.com/rlterry00/fiature-blockchain.git"
+  },
+  "author": "Ramon R.L. Terry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlterry00/fiature-blockchain/issues"
+  },
+  "homepage": "https://github.com/rlterry00/fiature-blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
